@@ -388,10 +388,14 @@ Confusion matrix:<br>
 <h3>
 References
 </h3>
-<b>Malignant Lymphoma Classification</b>
+<b>1. Malignant Lymphoma Classification</b>
 <pre>
 https://www.kaggle.com/datasets/andrewmvd/malignant-lymphoma-classification
-
-
+</pre>
+<b>2. Malignant lymphoma classification<br>
+Elaine Jaffe (National Cancer Institute) and Nikita Orlov (National Institute on Aging)
+</b>
+<pre>
+https://academictorrents.com/details/3cde17e7e4d9886513630c1005ba20b8d37c333a
 </pre>
 
