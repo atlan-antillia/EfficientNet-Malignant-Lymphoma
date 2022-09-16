@@ -143,9 +143,9 @@ pip install -r requirements.txt
 <br>
 
 <h2>
-<a id="2">2 Python classes for >Malignant Lymphoma Classification</a>
+<a id="2">2 Python classes for Malignant Lymphoma Classification</a>
 </h2>
-We have defined the following python classes to implement our >Malignant Lymphoma Classification.<br>
+We have defined the following python classes to implement our Malignant Lymphoma Classification.<br>
 <li>
 <a href="./ClassificationReportWriter.py">ClassificationReportWriter</a>
 </li>
@@ -178,7 +178,7 @@ We have defined the following python classes to implement our >Malignant Lymphom
 <h2>
 <a id="3">3 Pretrained model</a>
 </h2>
- We have used pretrained <b>efficientnetv2-m</b> to train Lung Colon Cancer FineTuning Model.
+ We have used pretrained <b>efficientnetv2-m</b> to train Malignant Lymphoma FineTuning Model.
 Please download the pretrained checkpoint file from <a href="https://storage.googleapis.com/cloud-tpu-checkpoints/efficientnet/v2/efficientnetv2-m.tgz">efficientnetv2-m.tgz</a>, expand it, and place the model under our top repository.
 
 <pre>
